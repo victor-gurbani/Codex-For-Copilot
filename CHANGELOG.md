@@ -2,6 +2,29 @@
 
 This changelog is maintained by Release Please from Conventional Commit titles merged into `master`.
 
+## [1.4.0](https://github.com/victor-gurbani/Codex-For-Copilot/compare/v1.3.1...v1.4.0) (2026-07-25)
+
+
+### Features
+
+* add selectable context window profiles ([#23](https://github.com/victor-gurbani/Codex-For-Copilot/issues/23)) ([06db8ad](https://github.com/victor-gurbani/Codex-For-Copilot/commit/06db8adb3c4852c5d130fd43cca7ec5a2d8980c9)), closes [#21](https://github.com/victor-gurbani/Codex-For-Copilot/issues/21)
+* align ChatGPT Codex transport with Codex CLI ([#10](https://github.com/victor-gurbani/Codex-For-Copilot/issues/10)) ([3dd615b](https://github.com/victor-gurbani/Codex-For-Copilot/commit/3dd615b8b9a245353200856b559270d7be839cd3))
+
+
+### Bug Fixes
+
+* allow Entra login without Azure subscription access ([7eeefa9](https://github.com/victor-gurbani/Codex-For-Copilot/commit/7eeefa9fff88d8a8e53c9e2a51fe16c448974054))
+* allow Marketplace Entra login without subscription access ([26f3882](https://github.com/victor-gurbani/Codex-For-Copilot/commit/26f3882cc28178b15498ba345b25ea4b78ccad7e))
+* classify wrapped continuation misses ([80da656](https://github.com/victor-gurbani/Codex-For-Copilot/commit/80da656fc4fcd1769e9c8aab11cefd11005bca29))
+* enforce model discovery policy ([#31](https://github.com/victor-gurbani/Codex-For-Copilot/issues/31)) ([a4e4cbe](https://github.com/victor-gurbani/Codex-For-Copilot/commit/a4e4cbeb35774bccbc836bbefe66ae8a6c27b086))
+* invalidate stale continuation branches ([f45a755](https://github.com/victor-gurbani/Codex-For-Copilot/commit/f45a755f9a84fca70172ea311814ae63d8c7e23d))
+* keep exhausted credit budgets visible ([#35](https://github.com/victor-gurbani/Codex-For-Copilot/issues/35)) ([556af22](https://github.com/victor-gurbani/Codex-For-Copilot/commit/556af22a52b273a3dbf8f9a8d107130038762e5b))
+* match IPv6 no_proxy hosts ([47f7856](https://github.com/victor-gurbani/Codex-For-Copilot/commit/47f78567b5dae52259aa9d45640ad15affd8aeda))
+* match IPv6 no_proxy hosts ([8edd2ad](https://github.com/victor-gurbani/Codex-For-Copilot/commit/8edd2adb9540b4b06a3f895df6826fa111746aa3))
+* preserve latest release during historical retries ([fc08b1f](https://github.com/victor-gurbani/Codex-For-Copilot/commit/fc08b1ff7957a1c8eafe8b304a3e5260afd8f679))
+* publish with tenant-scoped Entra login ([58f7a44](https://github.com/victor-gurbani/Codex-For-Copilot/commit/58f7a4466a43c2cce9e7df1b5d662b0a42f2c38b))
+* recover wrapped continuation misses ([ed38c37](https://github.com/victor-gurbani/Codex-For-Copilot/commit/ed38c37363bb37cd15f2e0ef42431987e995c103))
+
 ## [1.3.1](https://github.com/GaussianGuaicai/Codex-For-Copilot/compare/v1.3.0...v1.3.1) (2026-07-22)
 
 
